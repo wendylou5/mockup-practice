@@ -1,0 +1,29 @@
+* { box-sizing: border-box; }
+h1 { text-align: center;
+}
+p { font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+
+header nav li { float: left; 
+                list-style: none;
+                max-width: 10%;
+                background-color: purple;
+                padding: 10px;
+                border: solid rebeccapurple;
+                border: 1px;
+}
+aside { clear: both;
+        float: left;
+        max-width: 30%;
+}
+article { float: right;
+          max-width: 60%;
+}
+footer nav li {   clear: both;
+                  list-style: none;
+                  max-width: 10%;
+}
+
+
+
